@@ -1,7 +1,7 @@
 # Search the "UNIQLO" Location In Taiwan By Google Apps Script
 
 ## Introduction
-A simple website that can search a clothes shop named "Uniqlo" all branches in Taiwan!
+A simple website that can search "Uniqlo" shop loaction in Taiwan!
 <br></br>
 (👇Click this link to open the website!)  
 https://cutt.ly/RZRb5pj
